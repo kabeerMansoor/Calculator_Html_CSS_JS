@@ -1,0 +1,39 @@
+.img{
+    background-image: url("img.webp");
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    
+}
+
+.box {
+    width: 400px;
+    height: 550px;
+}
+
+.screen {
+    padding-left: 10px; /* Adjust the padding as needed */
+    width: 100%; /* Make sure the input takes up the entire width of its container */
+    box-sizing: border-box; /* Ensure padding is included in the width */
+}
+.keys {
+    width: 40px;
+    border-radius: 10px;
+}
+
+.box .bigbutton {
+    width: 100px;
+    border-radius: 10px;
+}
+.bordercustom{
+    border: 5px solid grey;
+}
+.btncolor{
+    background-color: grey;
+}
+.delbtn{
+    width: 50px;
+}
+.offbtn{
+    width: 50px;
+}
